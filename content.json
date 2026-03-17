@@ -1,0 +1,306 @@
+{
+    "general": {
+        "phone": "+1 234 567 8900",
+        "email": "info@universallending.com",
+        "address": "Main Street 1, [CITY]",
+        "site_name": "Universal Lending PRO",
+        "year": "2026"
+    },
+    "meta": {
+        "title": "Fast Personal Loans & Credit in [CITY] | Universal Lending PRO 2026",
+        "description": "Instant personal loans and credit in [CITY] ✓ Universal Lending PRO offers fast approval, low rates, cash in 15 minutes ✓ Loans up to $50,000 ✓ Call: +1 234 567 8900",
+        "keywords": "personal loans [CITY], fast credit [CITY], instant loans [CITY], cash loans [CITY], bad credit loans [CITY]",
+        "robots": "index, follow, max-image-preview:large",
+        "author": "Ruslan Bilohash",
+        "theme_color": "#10b981",
+        "canonical": "https:\/\/yourdomain.com"
+    },
+    "og": {
+        "title": "Fast Personal Loans & Credit in [CITY] | Universal Lending PRO",
+        "description": "Universal Lending PRO — instant personal loans, credit and cash advance in [CITY]. Low rates, fast approval, 100% online. Get money today!",
+        "image": "https:\/\/picsum.photos\/seed\/lending-hero\/1200\/630",
+        "image_width": "1200",
+        "image_height": "630",
+        "url": "https:\/\/yourdomain.com",
+        "type": "website",
+        "locale": "en_US",
+        "site_name": "Universal Lending PRO"
+    },
+    "twitter": {
+        "card": "summary_large_image",
+        "title": "Fast Personal Loans & Credit in [CITY] | Universal Lending PRO",
+        "description": "Instant loans ✓ Low rates ✓ Bad credit OK ✓ Cash in 15 minutes ✓ Universal Lending PRO",
+        "image": "https:\/\/picsum.photos\/seed\/lending-hero\/1200\/630"
+    },
+    "header": {
+        "logo_text": "Universal Lending PRO",
+        "nav_items": [
+            {
+                "text": "Loan Types",
+                "anchor": "#loans"
+            },
+            {
+                "text": "Benefits",
+                "anchor": "#benefits"
+            },
+            {
+                "text": "How It Works",
+                "anchor": "#process"
+            },
+            {
+                "text": "Gallery",
+                "anchor": "#gallery"
+            },
+            {
+                "text": "Reviews",
+                "anchor": "#reviews"
+            },
+            {
+                "text": "FAQ",
+                "anchor": "#faq"
+            },
+            {
+                "text": "Apply Now",
+                "anchor": "#apply"
+            }
+        ]
+    },
+    "hero": {
+        "h1": "INSTANT PERSONAL LOANS IN [CITY]",
+        "p": "Universal Lending PRO — fast cash loans up to $50,000 with low rates and approval in 15 minutes. Bad credit? No problem. 100% online and secure.",
+        "button_order": "Apply for Loan Now",
+        "button_phone": "+1 234 567 8900",
+        "bottom_text": "[CITY] • Open 24\/7 • Money in 15 Minutes • 100% Secure"
+    },
+    "services": {
+        "badge": "LOAN TYPES",
+        "h2": "Personal Loans & Credit in [CITY] — All Types",
+        "p": "Universal Lending PRO offers a full range of fast loans and credit solutions in [CITY].",
+        "items": [
+            {
+                "image": "https:\/\/picsum.photos\/seed\/personal-loan\/600\/400",
+                "title": "Personal Loans",
+                "text": "Quick unsecured loans from $500 to $50,000.",
+                "footer": "Cash in 15 minutes"
+            },
+            {
+                "image": "https:\/\/picsum.photos\/seed\/credit-card\/600\/400",
+                "title": "Credit Cards",
+                "text": "Instant credit cards with 0% APR for 12 months.",
+                "footer": "No annual fee"
+            },
+            {
+                "image": "https:\/\/picsum.photos\/seed\/bad-credit\/600\/400",
+                "title": "Bad Credit Loans",
+                "text": "Loans even with poor credit history.",
+                "footer": "Approval in 5 minutes"
+            },
+            {
+                "image": "https:\/\/picsum.photos\/seed\/payday-loan\/600\/400",
+                "title": "Payday Loans",
+                "text": "Short-term cash advance until next paycheck.",
+                "footer": "Fast & reliable"
+            }
+        ]
+    },
+    "advantages": {
+        "badge": "WHY US",
+        "h2": "Why Choose Universal Lending PRO",
+        "p": "We deliver fast money with the lowest rates and highest approval rate in [CITY].",
+        "items": [
+            {
+                "emoji": "⚡",
+                "title": "15-Minute Approval",
+                "text": "Get approved instantly online."
+            },
+            {
+                "emoji": "💰",
+                "title": "Low Interest Rates",
+                "text": "From 4.9% APR — the best in [CITY]."
+            },
+            {
+                "emoji": "🔒",
+                "title": "100% Secure",
+                "text": "Bank-level encryption & SSL."
+            },
+            {
+                "emoji": "📱",
+                "title": "Bad Credit OK",
+                "text": "We help even with poor score."
+            },
+            {
+                "emoji": "🏦",
+                "title": "No Hidden Fees",
+                "text": "Fixed rates, transparent terms."
+            },
+            {
+                "emoji": "🌍",
+                "title": "All Districts",
+                "text": "Loans anywhere in [CITY]."
+            }
+        ]
+    },
+    "how": {
+        "badge": "PROCESS",
+        "h2": "How It Works",
+        "p": "Simple 4-step process — get cash in 15 minutes.",
+        "steps": [
+            {
+                "num": "1",
+                "title": "Apply Online",
+                "text": "Fill the form in 60 seconds."
+            },
+            {
+                "num": "2",
+                "title": "Instant Check",
+                "text": "Soft credit check in seconds."
+            },
+            {
+                "num": "3",
+                "title": "Get Approved",
+                "text": "Receive decision immediately."
+            },
+            {
+                "num": "4",
+                "title": "Money on Card",
+                "text": "Cash arrives in 15 minutes."
+            }
+        ]
+    },
+    "gallery": {
+        "badge": "GALLERY",
+        "h2": "Real Clients & Results",
+        "p": "See how we helped people in [CITY] get fast loans.",
+        "images": [
+            {
+                "url": "https:\/\/picsum.photos\/seed\/loan-success\/600\/400",
+                "alt": "Happy Client with New Car"
+            },
+            {
+                "url": "https:\/\/picsum.photos\/seed\/home-loan\/600\/400",
+                "alt": "Home Renovation Loan"
+            },
+            {
+                "url": "https:\/\/picsum.photos\/seed\/business-loan\/600\/400",
+                "alt": "Business Expansion"
+            },
+            {
+                "url": "https:\/\/picsum.photos\/seed\/cash-loan\/600\/400",
+                "alt": "Cash in Hand"
+            },
+            {
+                "url": "https:\/\/picsum.photos\/seed\/credit-approved\/600\/400",
+                "alt": "Credit Card Approved"
+            },
+            {
+                "url": "https:\/\/picsum.photos\/seed\/family-loan\/600\/400",
+                "alt": "Family Vacation Loan"
+            }
+        ]
+    },
+    "reviews": {
+        "badge": "REVIEWS",
+        "h2": "What Our Clients Say",
+        "items": [
+            {
+                "stars": "★★★★★",
+                "text": "Got $10,000 in 12 minutes! Best service ever.",
+                "name": "Michael R.",
+                "info": "[CITY] • 2 weeks ago"
+            },
+            {
+                "stars": "★★★★★",
+                "text": "Approved with bad credit — unbelievable!",
+                "name": "Sarah K.",
+                "info": "[CITY] • 1 month ago"
+            },
+            {
+                "stars": "★★★★★",
+                "text": "Lowest rates in the city. Highly recommend.",
+                "name": "TechStart LLC",
+                "info": "[CITY] • 3 weeks ago"
+            }
+        ]
+    },
+    "seo_text": {
+        "h2": "Fast Personal Loans in [CITY] — Your Trusted Lender",
+        "p1": "Universal Lending PRO has been helping residents and businesses of [CITY] since 2026 with instant loans and credit solutions.",
+        "p2": "Flexible terms, low rates, 100% online process and money on your card in minutes."
+    },
+    "faq": {
+        "h2": "Frequently Asked Questions",
+        "items": [
+            {
+                "q": "How much can I borrow?",
+                "a": "From $500 to $50,000 depending on your profile."
+            },
+            {
+                "q": "Do you check credit score?",
+                "a": "Yes, but we approve bad credit applications too."
+            },
+            {
+                "q": "How fast is the money transferred?",
+                "a": "Usually within 15 minutes after approval."
+            },
+            {
+                "q": "Are there hidden fees?",
+                "a": "No. All rates and fees are shown upfront."
+            },
+            {
+                "q": "Can I apply 24\/7?",
+                "a": "Yes, our system works around the clock."
+            },
+            {
+                "q": "What if I have bad credit?",
+                "a": "We specialize in helping people with poor credit."
+            }
+        ]
+    },
+    "order_form": {
+        "h2": "Apply for a Loan in [CITY] Right Now",
+        "p": "Approval in 15 minutes • Money on card instantly • All districts of [CITY]",
+        "success_title": "Thank You! Application Received.",
+        "success_text": "We will contact you within 15 minutes.",
+        "error_text": "Error sending the application. Please try again later.",
+        "labels": {
+            "name": "Full Name",
+            "phone": "Phone Number",
+            "message": "Desired Loan Amount & Purpose"
+        }
+    },
+    "footer": {
+        "about": "Universal Lending PRO — professional lending services in [CITY] since 2026. Fast, secure and reliable.",
+        "districts": "All districts of [CITY]",
+        "copyright": "© 2026 Universal Lending PRO. All rights reserved."
+    },
+    "schema": {
+        "name": "Universal Lending PRO",
+        "description": "Fast Personal Loans & Credit in [CITY]",
+        "url": "https:\/\/yourdomain.com",
+        "telephone": "+12345678900",
+        "streetAddress": "Main Street 22",
+        "addressLocality": "[CITY]",
+        "addressCountry": "US",
+        "openingHours": "Mo-Su 00:00-24:00",
+        "priceRange": "$$",
+        "ratingValue": "4.98",
+        "reviewCount": "142",
+        "image": "https:\/\/picsum.photos\/seed\/lending-hero\/1200\/630"
+    },
+    "email_settings": {
+        "recipient": "rbilohash@gmail.com",
+        "from_email": "no-reply@universallending.com",
+        "from_name": "Universal Lending PRO — [CITY]",
+        "subject_prefix": "New Loan Application — ",
+        "success_redirect": "?success=1",
+        "error_redirect": "?error=1",
+        "company_name": "Universal Lending PRO",
+        "city": "[CITY]"
+    },
+    "custom_code": {
+        "head": "<!-- Add your own code in <head> (Google Analytics, meta, etc.) -->",
+        "style": "",
+        "js": "\/\/ Add your custom JavaScript here",
+        "footer_html": "<!-- Add HTML before <\/body> -->"
+    }
+}
